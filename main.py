@@ -1,7 +1,13 @@
 #shows how to create a game that draws polygon shapes using turtle module graphics
 
 import turtle as t
+import random
+
 tim = t.Turtle()
+
+colors = ['CornflowerBlue','DarkOrchid','IndianRed','DeepSkyBlue',
+          'LightSeaGreen','wheat','SlateGray','SeaGreen',
+          'medium aquamarine']
 
 def draw_shape (num_sides):
     angle = 360/num_sides
@@ -10,8 +16,9 @@ def draw_shape (num_sides):
         tim.right(angle)
 
 for shape_side_n in range(3, 11):
+    tim.color(random.choice(colors))
     draw_shape(shape_side_n)
-    
+
 
 
 
