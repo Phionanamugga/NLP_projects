@@ -23,5 +23,10 @@ def draw_spirograph(size_of_gap):
         tim.circle(100)
         tim.setheading(tim.heading() + size_of_gap)
 
+#shows how to draw a spirograph by shifting the circle 5 degrees each time
 draw_spirograph(5)
+
+screen = t.Screen()
+screen.exitonclick()
+
 
