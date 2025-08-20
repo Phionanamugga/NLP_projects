@@ -28,12 +28,14 @@ Cross-Cultural NLP: Developing culturally adaptive AI systems that understand li
 Embedding explainability, ethics, and inclusivity into NLP-driven decision systems.
 
 ## 🚀 Projects & Highlights
-Conversational AI Framework – Built a scalable chatbot architecture (FastAPI + PostgreSQL + LLM integration) for customer engagement in global enterprises.
-🍽️ Amazon Food Reviews – Sentiment Analysis & Insights
+1. Conversational AI Framework – Built a scalable chatbot architecture (FastAPI + PostgreSQL + LLM integration) for customer engagement in global enterprises.
+
+2. 🍽️ Amazon Food Reviews – Sentiment Analysis & Insights
 This project leverages Amazon’s Food Reviews dataset to explore how customers express satisfaction, dissatisfaction, and nuanced feedback.
-Multimodal NLP for Healthcare – Combined medical text and image data to improve patient care recommendations.
+3. Multimodal NLP for Healthcare – Combined medical text and image data to improve patient care recommendations.
 Cross-Border E-commerce NLP Engine – Deployed a multi-language sentiment analysis system to optimize consumer insights in Germany, India, and China.
-Edge AI Research – Proposed novel techniques for efficient multimodal learning tailored for constrained environments, aimed at collaboration with NVIDIA, Microsoft, and Google research teams.
+
+4. Edge AI Research – Proposed novel techniques for efficient multimodal learning tailored for constrained environments, aimed at collaboration with NVIDIA, Microsoft, and Google research teams.
 
 🛠️ Tech Stack
 Python, PyTorch, TensorFlow,Hugging Face Transformers
